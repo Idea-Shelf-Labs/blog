@@ -6,11 +6,8 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	// GitHub Pages project site: https://idea-shelf-labs.github.io/blog/
-	// Custom domain later: set `site` to e.g. 'https://ideashelf.example', delete `base`,
-	// and add public/CNAME containing just the domain name.
-	site: 'https://idea-shelf-labs.github.io',
-	base: '/blog',
+	// GitHub Pages with custom domain https://ideashelflabs.com (public/CNAME). Old https://idea-shelf-labs.github.io/blog/ forwards here.
+	site: 'https://ideashelflabs.com',
 	trailingSlash: 'ignore',
 	integrations: [mdx(), sitemap()],
 	fonts: [
