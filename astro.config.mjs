@@ -9,6 +9,12 @@ export default defineConfig({
 	// GitHub Pages with custom domain https://ideashelflabs.com (public/CNAME). Old https://idea-shelf-labs.github.io/blog/ forwards here.
 	site: 'https://ideashelflabs.com',
 	trailingSlash: 'ignore',
+	// Old github.io/blog links forward to /blog/... on this domain; send them to the new paths.
+	redirects: {
+		'/blog': '/',
+		'/blog/posts': '/posts/',
+		'/blog/posts/qattara': '/posts/qattara/',
+	},
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
