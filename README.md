@@ -54,3 +54,13 @@ npm run dev      # http://localhost:4321/blog/
 3. In **Settings → Pages → Custom domain**, enter the domain and add the DNS record GitHub shows at your registrar; tick **Enforce HTTPS** once offered.
 
 All internal links and images use Astro's base path, so nothing else needs editing.
+
+## License
+
+- **Posts and their images** (`src/content/`): CC BY 4.0, see [`LICENSE-CONTENT`](LICENSE-CONTENT).
+  Some images use third-party data (Copernicus DEM elevation data, NASA and Copernicus
+  Sentinel-2 imagery). That data stays under its providers' terms: keep the notices listed in
+  `LICENSE-CONTENT` when you reuse those images.
+- **`src/assets/og-default.png`**: a copy of the qattara hero map, covered the same way.
+- **Site code** from the Astro blog template: MIT, see [`LICENSE`](LICENSE).
+- **Fonts** in `src/assets/fonts/` (Atkinson Hyperlegible): SIL Open Font License 1.1.
