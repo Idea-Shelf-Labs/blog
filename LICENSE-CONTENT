@@ -49,6 +49,12 @@ Satellite imagery (qattara hero map and src/assets/og-default.png only):
   Imagery: NASA Worldview, MODIS Terra true color, 15 Jul 2024 (NASA EOSDIS); inset: NASA HLS
   S30, 10 Oct 2024, contains modified Copernicus Sentinel-2 data 2024.
 
+  Contains modified Copernicus Sentinel data 2024
+
+  NASA imagery is used in a factual manner and does not imply endorsement by NASA. If you reuse
+  the Sentinel-2 derived inset, keep the Sentinel notice above (Legal notice on the use of
+  Copernicus Sentinel Data and Service Information).
+
 
 =======================================================================
 
