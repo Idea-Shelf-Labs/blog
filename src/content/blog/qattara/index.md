@@ -1,202 +1,238 @@
 ---
-title: "We Traced a Pipe From the Sea to a Lake Below Sea Level. Here's What It Could Deliver, and What It Would Take"
-description: "One illustrative route across Egypt's Western Desert: a drop that could pay back its own pumping, cheap heat for desalination, and fresh water that could cover today's salt and sand."
+title: "We Traced a Pipe From the Sea to a Lake Below Sea Level: What the Drop Pays For, and What It Doesn't"
+description: "Egypt's Qattara Depression lies below sea level. A freshwater lake there can roughly repay its own pumping, but not desalination. Salt is the hard part."
 pubDate: 2026-11-01
-heroImage: "./images/qattara-v3b-hero-map.png"
+updatedDate: 2026-11-26
+heroImage: ./images/qattara-v4-hero-map.png
+ideaId: qattara-depression-lake
+cardVersion: 2.0.0
+tags: [water, energy, agriculture, climate]
+patterns: [converge-on-proven, stabilize-across-systems, growth-with-less-harm]
+evidence: test-specified
+draft: false
 ---
 
-*One illustrative route across Egypt's Western Desert: a drop that could pay back its own pumping, cheap heat for desalination, and fresh water that could cover today's salt and sand.*
+Pushing water uphill costs energy, and you rarely get it back. The aqueducts that carry water over the mountains into Southern California spend that energy for good, because the water ends up higher than where it started.
 
-![Map of one illustrative route from the Mediterranean coast in the vicinity of El Dabaa to an upper lake on the plateau, down the escarpment and across the Qattara Depression to a C-shaped lake](./images/qattara-v3b-hero-map.png)
+Egypt's Qattara Depression runs the other way. 19,500 km² of desert there lies below sea level, down to −134 m at its lowest point, and its northern edge is 56 km from the Mediterranean. Water pumped over the coastal plateau there could finish lower than it started. So could the fall pay for the climb?
 
-At midday, pumps would push fresh water up onto a plateau. At night it would run back down a cliff, through turbines, toward a lake that sits below sea level.
+For a century, the answer people reached for was seawater: cut a canal, let the sea pour in, run turbines on the drop. Those schemes end as a salt lake or a salt pan. In May 2026, a review by Egypt's government rejected seawater filling.
 
-It sounds like a machine that runs itself. It isn't. But the geography does more of the work than you might expect, and the numbers show where the hard part is.
+Our idea is the fresh-water version. Make fresh water on the coast with a nuclear plant's spare heat and spare power, pump it over the plateau, and win some of the energy back as it falls into a freshwater lake below sea level. Run as one system, those pieces are designed to cut the net energy cost of filling the basin, with the plant buying little or no outside electricity.
 
-## What it could add up to
+That same review is the first objection, and it's a fair one. It judged four of its five scenarios not feasible, including the one closest to this: desalinate at the rim and pipe the water straight to users. Why that one failed isn't published. The review favoured not using the depression as a reservoir at all, and it named seepage into groundwater and wells, saltier soil, harm to desert ecosystems including Siwa Oasis, overlap with oil and gas areas, and hydropower costing more than other power.
 
-- **Water that ends up downhill.** The final lake sits at about −97.6 m, so the drop can pay back the pumping.
-- **Cheap heat.** A power plant's cooling-water heat, otherwise sent back to the sea, is near free. It becomes the base heat for desalination.
-- **Storage on the route.** The lake on the plateau can shift solar power into the evening.
-- **Fresh water and a reserve in the desert.** Lakes, a stored buffer, and room for farms and wildlife.
+This design changes what fills the basin and how the desalination is powered. That clears nothing by itself. It is still a reservoir. It faces the same risks. It does not claim to overturn the review.
 
-## The idea
+> **The short version**
+>
+> **What it is:** fresh water made on Egypt's coast, pumped up to a lake on the plateau, then dropped through turbines into a second lake at −97.6 m.
+>
+> **Why it isn't the seawater scheme:** the lake is meant to settle at about 1,000 mg/L, the upper limit for fresh water, instead of being left to turn into brine. It starts saltier: about 1,500–3,000 mg/L for years, and in a simple model it takes decades to settle.
+>
+> **What gravity does:** it can roughly repay its own pumping. It does not pay for desalination, and the whole system isn't claimed to break even on energy.
+>
+> **The main risk:** the lake floor. How much salt it holds and how fast it leaks are unmeasured, and Siwa lies within about 80 km of the depression's western end.
+>
+> **The first test:** a year-long, hour-by-hour model of one route, plus cores drilled from the lake floor.
 
-Northwestern Egypt holds a huge dip in the desert, the Qattara Depression. About 19,605 km² of it lies below sea level, and its edge comes within about 56 km of the Mediterranean.
+## Following the water
 
-For a century, engineers dreamed of letting the sea pour in to make power. This idea asks for fresh water instead, made on the coast and kept as a lake.
+![Satellite map of one illustrative route. Intake and desalination on the coast near El Dabaa; an 85 km pipe climbing to an upper lake on the plateau (site 180 m, full 190 m, 14.3 km², 147 million m³, behind a dam 3.1 km long and about 20 m high); a natural basin to the north-northeast that fills to 155 m without a dam, 43.6 km² and 0.7 billion m³; a 212 m ridge that needs a 22–32 m cut or a booster; the drop down the escarpment to the cliff foot at −71 m; then 150 km of pipe across the depression floor to a C-shaped lake of 490 km² at −97.6 m.](./images/qattara-v4-hero-map.png)
 
-The claim is simple: run as one system, a nuclear plant's spare heat, spare electricity for desalination, a solar-clad pipe over the high ground, and turbines on the way down are *designed to* cut the net energy cost of filling a below-sea-level basin with fresh water.
+*Source: Idea Shelf Labs route traced on Copernicus elevation data; imagery from NASA Worldview and NASA HLS (contains modified Copernicus Sentinel-2 data). Illustrative, not a survey.*
 
-This isn't a survey or a build plan. It's one illustrative layout. Heights and areas are estimated from satellite elevation data that carries a few metres of error.
+The map above follows one route from start to finish. It's one illustrative layout, not a survey or a build plan. The heights come from satellite elevation data that carries a few metres of error, and the site is picked only so the idea can be scored.
 
-## Follow the water
+The water starts on the coast near El Dabaa, beside a nuclear plant site. It's picked only to score the idea, with no endorsement by the plant or its owners. From there a pipe of about 85 km climbs inland, mostly steadily, with one small dip near the end.
 
-![Elevation profile: a steady climb from the coast to an upper lake near 180–190 m, a 212 m ridge, a drop to −71 m at the cliff foot, and a long run to a lake at −97.6 m](./images/qattara-v3b-elevation-profile.png)
+It reaches an upper lake on the plateau. The ground there sits at about 180 m and a full lake at about 190 m. A dam about 3.1 km long would hold 147 million m³ across 14.3 km². A natural closed basin 9.5 km away holds about 0.7 billion m³ more without any dam, a water bank for dry spells.
 
-1. **The coast.** Intake and desalination sit on the coast in the vicinity of El Dabaa, using the plant's cooling-water heat piped a few kilometres. It is an illustrative site, chosen only to score the idea. It implies no endorsement by the plant or its owners.
-2. **The climb.** A pipe of roughly 85 km carries the water inland, rising mostly steadily, with one dip of about 15 m near km 78.
-3. **The upper lake.** The ground sits at about 180 m and the full lake at about 190 m. A dam about 3.1 km long would hold roughly 14.3 km² and about 147 million m³.
-4. **The ridge.** More on this below.
-5. **The cliff.** The water drops down the escarpment to about −71 m at the cliff foot, a fall of about 251–261 m depending on how full the upper lake is.
-6. **The lake.** About 150 km farther along the depression floor, a C-shaped pocket in the southwest would hold 490 km² of water at about −97.6 m, roughly the size of Lake Tahoe.
+Then comes the drop. The water goes over the escarpment to a cliff foot at about −71 m, a fall of 251–261 m depending on how full the upper lake is. Engineers call that height "head": the vertical distance water can fall through a turbine.
 
-## The ridge in the way
+The last stretch is about 150 km of pipe across the depression floor, to a pocket in the southwest. Filled to −97.6 m, it would make a lake of 490 km². That's the same surface area as Lake Tahoe, though far shallower: it would hold about 7.2–7.3 km³.
 
-About 4.1 km south of the upper lake, on the way down, the elevation data shows a ridge rising to about 212 m, higher than the full lake. There are two ways past it.
+![Ground profile along the route, with height exaggerated so the shape shows. The pipe climbs over 85 km from sea level to the upper lake at 180–190 m, meets a 212 m ridge that needs a 22–32 m cut or a booster pump losing only 0.01–0.02 kWh/m³, falls 251–261 m to the cliff foot at −71 m, and runs 150 km along the floor to the lake at −97.6 m.](./images/qattara-v5-elevation-profile.png)
 
-- **Cut through it** with a channel or tunnel about 20–35 m deep (about 22–32 m between a full and a low lake). A one-time job. We haven't costed it.
-- **Pump over it.** A booster would cost about 0.09–0.10 kWh per cubic metre, forever, which wipes out the best case below.
+*Source: Idea Shelf Labs, from Copernicus GLO-30 elevation data along the illustrative route; the pipe line is schematic.*
 
-Every energy figure here assumes the cut.
+## The ridge: dig or pump?
 
-## The drop can pay its own way
+The profile shows one awkward bump. About 4.1 km south of the upper lake, on the way down, the ground rises to about 212 m. That's higher than the full lake, so the water can't flow over it on its own.
 
-![Bar chart: ideal 0.266 kWh/m³, after machine losses 0.127–0.165, after pipe friction +0.099 to −0.138, compared with 3–5.5 kWh/m³ for reverse osmosis](./images/qattara-v3b-energy-card.png)
+There are two ways past. You can dig a cut 22–32 m deep, a one-off job that hasn't been costed. Or you can fit a booster pump and push the water over the top.
 
-Each metre of height is worth about 0.002725 kWh per cubic metre of water. Lift water to about 180 m, let it fall to −97.6 m, and the drop below sea level is the profit.
+The booster sounds like a big running cost, but it isn't. Water pushed over the ridge falls straight back down the other side, through the same turbines. So you don't lose the extra lift. You lose only what the pump and turbine waste on the round trip, about 0.01–0.02 kWh per cubic metre.
 
-Before friction, the whole trip comes out ahead. With perfect machines, about 0.266 kWh/m³ comes back, net. Assuming pumps and turbines manage an 80–85% round trip, the net is still about 0.127–0.165 kWh/m³.
+That turns the cut into a cost trade, not a must. On one side is a one-time dig. On the other is about 6–15 % of the energy gain before friction, every day the scheme runs. Every energy figure in this post assumes the cut.
 
-Pipe friction decides how much is left. Assuming 0.1–0.4 m of lost head per km over about 250 km of pipe, the result spans roughly +0.099 to −0.138 kWh/m³. A wide, smooth pipe keeps a small gain. A narrow one turns it into a small loss. Pipe size is a cost trade.
+## What the fall gives back
 
-Reverse osmosis (RO) desalination, by comparison, takes about 3–5.5 kWh/m³, though published estimates vary. Gravity can roughly pay back its own pumping. At best that covers about 2–3% of RO's energy. It does not pay for desalination. At best it removes the usual energy penalty for moving water inland and uphill. With a narrow pipe it leaves a small one.
+![Bar chart of the net energy from the climb and the drop, per cubic metre of fresh water. With no losses: 0.266 kWh/m³. After pump and turbine losses at an 80–85% round trip: 0.127 to 0.165 kWh/m³. After pipe friction of 0.1–0.4 m per km as well: +0.099 to −0.138 kWh/m³, crossing break-even. A second scale shows reverse osmosis desalination at 3–4.5 kWh/m³, far larger than the best case of 0.099.](./images/qattara-v4-energy-card.png)
 
-## People already pump water over mountains
+*Source: Idea Shelf Labs arithmetic on the route heights; reverse osmosis range from a published review of desalination in the Middle East and North Africa.*
 
-Since 1941, the Colorado River Aqueduct has run 242 miles, about 390 km, from the Colorado River to Southern California. Five pumping plants lift the water a combined 1,617 feet, about 490 m. Published estimates put the energy at about 2,000 kWh per acre-foot, roughly 1.6 kWh per cubic metre.
+Each metre of head is worth 0.002725 kWh for every cubic metre of water. That's simple physics: the weight of a tonne of water times the height it falls.
 
-California's State Water Project climbs higher. One pumping plant at the foot of the Tehachapi Mountains lifts water 1,926 feet, about 590 m, in a single step. Water delivered from the Delta to the end of its East Branch takes about 3,236 kWh per acre-foot, net of what its own hydro plants recover, roughly 2.6 kWh/m³. That covers the whole trip, not just the Tehachapi lift.
+Lift the water to about 180 m, let it fall to −97.6 m, and the fall is longer than the climb by exactly the lake's depth below sea level. With perfect machines that would hand back 0.266 kWh per cubic metre, net. We call the balance between the two the lift-to-drop: how high the water has to be pumped compared with how far it can fall.
 
-Those systems spend most of that energy for good, because their water ends up higher than it started. Here the water ends up lower, so the climb can be paid back. The comparison is about direction, not scale.
+Machines lose some of it. With pumps and turbines at an 80–85 % round trip, the net drops to 0.127–0.165 kWh per cubic metre.
 
-## Cheap heat for the water
+Then the pipe takes its share. Water rubbing along about 250 km of pipe loses 0.1–0.4 m of head per kilometre. After that, the result runs from a gain of 0.099 to a loss of 0.138 kWh per cubic metre, as the chart shows. A wide, smooth pipe keeps a small gain; a narrow one turns it into a small loss. Pipe size is a cost trade too.
 
-Desalination leans on three other things: spare plant heat for a thermal method called multi-effect distillation (MED), spare electricity for RO, and timing each machine to run when its energy costs least. The goal, still to be tested, is a plant that buys little or no outside electricity.
+Now set that next to desalination. Reverse osmosis (RO), which pushes seawater through membranes, takes 3–4.5 kWh per cubic metre. Per cubic metre, the best case from the fall is about 2–3 % of that.
 
-### Heat that would be lost anyway
+So gravity can roughly repay its own pumping. It does not pay for desalination. What it can do is remove the usual energy penalty for moving water inland and uphill.
 
-A nuclear plant's condenser cooling water typically comes out at about 30–40 °C. Normally that heat goes back to the sea. Here it becomes MED's base heat. By design, no steam is taken, so the plant's safety basis is unchanged.
+That penalty is easy to see in California. The Colorado River Aqueduct lifts water 1,617 ft (490 m) through five pumping plants and spends 2,000 kWh per acre-foot, or 1.6 kWh per cubic metre. The State Water Project lifts water 1,926 ft (590 m) in one step at the Tehachapi Mountains; from the Delta to the end of its East Branch it spends 3,236 kWh per acre-foot, 2.6 kWh per cubic metre, even after its own hydro plants. Those systems spend the energy for good, because their water ends up higher. Here it ends up lower. The comparison is about direction, not scale.
 
-Running the cooling water a few degrees warmer is optional, up to the operator, and by our estimate would cost about 1–2% of output. Published studies put the loss at about 0.4–0.45% of electrical output per °C, over a 2–5 °C rise.
+## Cheap heat, not free heat
 
-### Solar tops it up
+Desalination is where the energy goes, so the design leans on energy that's otherwise wasted or spare.
 
-MED needs about 65–70 °C, so the warm water needs a lift in temperature. Heat pumps do that, running on midday solar surplus. We assume each unit of electricity moves 3–5 units of heat (a "COP" of 3–5). The published commercial average is about 3.3.
+A nuclear plant cools its steam with seawater. That cooling water comes out at 30–40 °C and usually goes straight back to the sea. The design takes that warm water, and no steam at all, so the plant's safety basis stays as it is.
 
-So most of the heat MED uses comes from water headed back to the sea. The electricity pays only for the top-up.
+The warm water feeds multi-effect distillation (MED), which boils seawater in a chain of chambers at low pressure. Low-temperature MED runs at 60–70 °C, and this design aims for 65–70 °C. So the warm water needs another 25–40 degrees.
 
-In the evening the plan sends power to the grid or to RO. Using some of the evening release to keep the heat pumps running is an option we haven't modeled. It is stored midday solar, not extra energy.
+Heat pumps add that, running on midday solar power that would otherwise go spare. A heat pump moves heat rather than making it, and its COP (coefficient of performance) says how many units of heat it delivers per unit of electricity. We assume a COP of 3–5. That assumption carries a lot of weight, so the first model has to check it against heat pumps already working across this lift.
 
-The top-up is where the cost sits. MED uses about 64–108 kWh of heat per m³, though published figures vary. Making all of that heat with heat pumps would take about 13–36 kWh of electricity per m³, roughly 2–12 times RO's 3–5.5. So MED earns its place by soaking up cheap surplus power, not by replacing RO. The split between MED and RO is the sizing question we haven't modeled yet. It is cheap heat, not free heat.
+This is where the heat gets expensive. MED uses 50–73 kWh of heat for every cubic metre of fresh water. The heat pumps deliver that heat. The cooling water supplies about 67–80 % of it, and electricity the rest: about 10–24 kWh per cubic metre. That's the design's own draw, not a worst case. It's 2–8 times what RO uses for the same cubic metre, before MED's own pumps add another 1.5–2 kWh.
 
-## Storage on top: an evening shift
+So why use MED at all? On ordinary electricity, RO wins: it makes 2–8 times more water per kilowatt-hour. MED earns its place only by turning two things that would otherwise be thrown away into water: the plant's rejected cooling heat, and midday solar power that the grid would otherwise curtail and RO can't absorb. It doesn't replace RO, and the right split between the two hasn't been worked out. It's cheap heat, not free heat.
 
-![Timeline: pump water up at midday with solar power, release it through turbines in the evening; 0.6–1.0 GWh a day at an 80–85% round trip](./images/qattara-v4-storage-card.png)
+The operator could also run the cooling water a few degrees warmer to give MED a head start, at a small cost in power output. Whether any operator would allow that is unknown.
 
-As a separate cycle, the upper lake and a pond at the cliff foot, assuming it can be ringed with dikes, could work as a small pumped-storage pair: pump water up with midday solar, let it run down in the evening.
+## Spare power for the rest
 
-Each million m³ falling 251–261 m is worth about 685–710 MWh before losses, or about 0.61–0.66 GWh after the turbines. Assuming 1–1.5 million m³ a day and an 80–85% round trip split evenly between pumping and generating, that is about 0.6–1.0 GWh a day back out for about 0.75–1.2 GWh pumped in.
+RO, the workhorse, runs on surplus electricity when there's plenty. Each million cubic metres a day needs about 125–190 MW on average, and more installed, because it runs only part of the day. A strip of solar panels over the pipeline, 70 km long and 10 m wide, would add about 140 MWp of peak capacity; what it would yield over a year on this route is unknown.
 
-The storage step on its own returns about 80–85% of what goes in. That is close to the roughly 80% the US Department of Energy gives for new pumped-storage plants. Storage moves energy in time and adds none of its own. The net gain above comes from the drop below sea level.
+This doesn't claim the system breaks even on energy, let alone makes more than it uses. The target is narrower: a plant that buys almost no power from outside, because the reactor's surplus and the sun cover the load. No reactor has been chosen, and we found no published nuclear desalination design of this kind to scale from.
 
-Before pipe friction, the drop's daily surplus is about the same size as the storage cycle's daily losses. With a narrow pipe, friction erases it.
+## An evening shift, not a giant battery
 
-That is a modest evening shift, not a giant battery. Draining the whole upper lake, about 147 million m³, would give roughly 90–97 GWh, but at that flow it would take months. And pumping back up has to clear the same 212 m ridge.
+![Daily timeline: pump water up to the upper lake with midday solar power, release it through turbines in the evening across 251–261 m of drop. At 1–1.5 million m³ a day, about 0.75–1.2 GWh goes in and 0.6–1.0 GWh comes back, an 80–85% round trip. Each million m³ is worth 685–710 MWh before losses. Draining the upper lake's 147 million m³ once would give 90–97 GWh, but at this flow that takes months.](./images/qattara-v5-storage-card.png)
 
-## Fresh water and life in the desert
+*Source: Idea Shelf Labs, from the route heights on Copernicus GLO-30 elevation data.*
 
-The point of all this pumping is fresh water. The depression floor today is salt pans, salt marsh, and sand. The goal is a freshwater lake of about 490 km². The first step is smaller: one large plant pair and a lake of about 180–270 km².
+The upper lake can do one more job. Paired with a diked pond at the cliff foot, it could work as a small pumped-storage plant: pump water up at midday when solar power is plentiful, and let it run back through the turbines in the evening. The chart shows the scale. It's a modest evening shift, in line with the 80 % round trip of new pumped-storage plants, not a giant battery. Storage moves energy in time and adds none of its own; the net gain comes only from the drop below sea level.
 
-The pipe, the upper lake, the water bank, and the final lake all hold desalinated water. Each body of water could support farming on its edges, habitat for wildlife, and more humidity in the local air. Each counts only once water quality and retention are shown.
+## How big a lake, and how much water it drinks
 
-A freshwater lake has to be managed to stay that way. With no outflow, the lake loses water mainly to evaporation, plus some seepage. Evaporation leaves the salt behind, so the lake gets saltier over time unless some water is bled off, for example to irrigate salt-tolerant crops on its edge, an idea we haven't tested. Seepage can't count as bleed-off. It is uncontrolled, and it puts wells and Siwa at risk.
+A lake in the desert loses water to the sky. Published estimates for a lake here run 4–5.5 mm a day, and none was measured for this basin; for a lake held fresh, we use the top of that range. That's 5,500 m³ a day for every square kilometre.
 
-Evaporation is the lake's biggest running cost. Assuming about 5,500 m³ per km² per day, holding 490 km² steady takes about 2.7 million m³ a day. That same loss is where the extra humidity comes from.
+For the full 490 km² lake, that's 2.7 million m³ a day, about 1 km³ a year, to stand still. A large desalination "plant pair" (one MED plant and one RO plant side by side, like today's biggest coastal plants) makes about 1–1.5 million m³ a day. So the full lake would take two to three of them.
 
-The upper lake holds about 147 million m³ when full, roughly three to five months of one large plant pair's output, or about two months at the full goal. That holds only when the lake isn't being cycled for storage. About 9.5 km north-northeast of it sits a natural closed basin. With no dam, it would fill to about 155 m, covering about 43.6 km² and holding about 0.7 billion m³. Together they could act as a reserve for a plant outage or a dry spell.
+The first build is smaller: one reactor, one corridor, one basin. One plant pair could hold a lake of about 180–270 km² against evaporation. In the early years, while salt leaks out of the floor, the bleed needs about 0.93 million m³ a day more on top.
 
-With only about 56 m of height between it and the upper lake, the water bank is weak as power storage.
+The upper lake holds 98–147 days of one plant pair's output, or 54 days at the full goal, when it isn't cycling for storage. With the water bank next to it, that's a reserve for a plant outage or a dry spell.
 
-## Washing out the old salt
+Now the rival's best number. Apart from the small bleed, 97–99 % of the water fed to the lake evaporates. The plainest alternative is to desalinate on the coast and pipe the water straight to farms and towns: no climb, no ridge, no lake. Piped direct, that same 1 km³ a year would water about 125,000–200,000 feddan of farmland. (A feddan is Egypt's field unit, a bit under half a hectare.) The lake's bleed, which we'll come to, waters about 1,250–6,000 feddan. At the same watering rate, that's 33 to 100 times less farmland for the same water. That measures water productivity, not the total value of the two systems: the lake also buys storage and a reserve that direct delivery doesn't.
 
-Over time, the lake would settle to fresh water at about 1,000 mg/L, the usual limit for fresh water. By our reading of FAO's guide, that gives full yields of barley, wheat, cotton, sugar beet, sorghum, date palm, and tomatoes. Maize, citrus, potatoes, and grapes lose up to a tenth of their yield. Beans, carrots, and onions struggle.
+So, per cubic metre delivered, the lake beats the rival only if a held freshwater lake is worth the extra pipe, the water lost to the sky and the extra risk, and if the drop repays the lift after friction. In return the lake offers a reserve, farms on its edge and moister air near the shore. More than that, like extra rain, isn't counted. It would also create a new ecosystem in the middle of a desert, and whether that turns out well or badly, from mosquitoes to invasive species, is unknown.
 
-A bleed of about 1–3% of the inflow would hold that level with desalinated water alone, or about 11–12% in years with Nile water, by our estimate. It would water salt-tolerant edge farms of about 110 km², which drain by gravity into a salt cell of about 47–54 km² to the northeast.
+## Keeping the lake fresh
 
-We'd flush the old salt crust first, collecting brine in the deepest pocket and pumping it to the salt cell. By our estimate, a crust up to about 10 cm clears in about 2–4 rounds over 3–8 months. The flush doesn't need the Nile: by our estimate, about three to nine months of the desalination plants' full output could do it. Pumping the brine out takes about 55–190 GWh, once.
+![Elevation map of the 490 km² lake at −97.6 m, with a salinity target of 1,000 mg/L. The deepest point, −135.8 m, lies in the western pocket, with a flat deep floor below −125 m of about 100 km². A salt cell of 47–54 km² at −99 to −98 m sits at the northeast end behind a bleed gate and a dike about 1 km long and 2 m high. A reserve cell of 19–22 km², floor −109 m behind a ridge about 14 m high, lies to the south.](./images/salt_sink_v4.png)
 
-The biggest unknown is salty water in the sediment below, unmeasured and likely to seep out for years. So we'd accept roughly 1,500–3,000 mg/L early on, with a larger bleed. Settling near 1,000 could take decades in our simple model, depending on how much brine the floor holds. Field cores come first, to set the flush, the early salt level, and the bleed.
+*Source: Idea Shelf Labs layout on Copernicus GLO-30 elevation data; the 1,000 mg/L target is the USGS upper limit for fresh water.*
 
-![Elevation map of the 490 km² Qattara lake at −97.6 m, settling to fresh water at about 1,000 mg/L. It shows the deep western pocket (deepest point about −136 m), a salt cell of about 47–54 km² at the northeast end behind a bleed gate and a dike about 1 km long and 2 m high, and a reserve cell of about 19–22 km² to the south.](./images/salt_sink_v4.png "Illustrative layout from satellite elevation data, not a survey: the freshwater lake, settling at about 1,000 mg/L, the salt cell that takes its bleed and drainage, and a reserve cell.")
+Evaporation takes the water and leaves the salt. A lake with no outlet gets saltier every year unless you take some water out on purpose.
 
-## What could come next: a link to the Nile
+The target is 1,000 mg/L, the USGS upper limit for fresh water. The water coming in is far purer, 5–30 mg/L from MED or a second RO pass. Skipping that second pass would mean about 40 % more desalinated water to hold the same lake.
 
-In surplus years only, a canal could carry a little Nile water to the main lake, by our assumption about 0.1–0.5 km³ a year.
+At 1,000 mg/L, FAO's crop tables give full yields for barley, cotton, sorghum, sugar beet, wheat and date palm. Maize, citrus, alfalfa, potatoes and grapes lose up to a tenth. Beans, carrots and onions struggle.
 
-By our estimate, the best route starts at the Delta head near Qanater. The river near Cairo carries about 170–240 mg/L of salt, by published measurements. The canal would skirt north of Wadi El Natrun and climb about 100–106 m to a saddle of about 110.5 m near Moghra. It then drops about 208 m to the lake through about five small hydro plants, about 507 km in all.
+The salt leaves through a "bleed": water drawn off the lake on purpose to carry salt away. Once the lake settles, a bleed of about 1–3 % of the inflow holds it at 1,000 mg/L, about 10–30 million m³ a year. It runs to salt-tolerant farms on the lake edge. Their drainage, about a fifth of the water they get, flows by gravity into a salt cell: a natural low salt flat of about 47–54 km² at the lake's northeast end, closed off by a short dike with a gate, as the map shows. A reserve pit to the south, about 127 million m³, takes surges.
 
-![Elevation map from the western Nile Delta to the Qattara Depression comparing four canal routes. All cross the same low crest, about 110.5 m, northeast of Moghra. Route B (green) runs from the Delta-head intake along the north side of Wadi El Natrun; route A (red) starts from the Nubaria canal at Amreya; route C (purple) drops into the wadi and pumps back out.](./images/natrun_vs_moghra_map_v2.png "Route options from the Nile to the depression. Every route crosses the same low saddle near Moghra, at about 110.5 m.")
+At that steady rate the bleed waters only part of the 110 km² edge-farm zone (about 26,000 feddan). The zone fills only when Nile water is in the mix. In the early years the bleed is bigger than the farms can use, and the excess goes to evaporation pans.
 
-![Ground profiles of three Nile routes. All climb to the same crest, marked 110.5 m, then share a descent of about 286 km to the lake at −97.6 m. Route C dips into Wadi El Natrun at about −21 m.](./images/natrun_vs_moghra_profile_v4.png "Illustrative ground profiles from satellite elevation data, showing ground level, not the design water level: every route has to cross the same crest, and dropping into Wadi El Natrun only adds pumping.")
+Seepage doesn't count as a bleed. It goes wherever the ground takes it, and it could reach wells and Siwa.
 
-This water needs no desalination. As an open canal, it would net about +0.05 to +0.16 kWh/m³ by our estimate, against RO's 3–5.5. There is no storage.
+## The floor is the hard part
 
-A lined branch of about 18–20 km could let about 8,000–25,000 feddan of Wadi El Natrun farms pump less from an aquifer overdrawn by about 106 million m³ a year, by published estimates. A no-farm buffer of about 2.5 km would protect the natron lakes and bird area, and the branch would avoid the monasteries. It costs energy but rests the aquifer.
+The hardest problem isn't energy. It's the floor.
 
-![Three-panel map. (a) Route B from the Nile Delta head west to a crest of about 110.5 m near Moghra, then down to the Qattara lake. (b) The Wadi El Natrun branch with possible drip-irrigated fields, a no-farm buffer around the natron lakes, and the approximate monastery positions. (c) The lake end: the flush sump in the deep basin, the salt cell behind a bleed gate, the reserve pit, evaporation pans, and edge farms watered with lake bleed water.](./images/routeB_plan_v5.png "Illustrative route and layout from satellite elevation data, not a design: the Nile canal option (route B), the Wadi El Natrun branch, and the lake's salt plan.")
+Today the bottom of this pocket is salt crust, salt marsh and sand. Every centimetre of crust under a 490 km² lake holds about 10.6 million tonnes of salt, and we found no published figure for how thick the crust is. Before the lake is held, the crust gets flushed: fill, dissolve, pump the brine out to the salt cell, and repeat.
 
-Toshka's lakes, filled by Nile overflow, turned salty and lost their fishery. The feed would need screening for schistosomiasis snails, and the canal lining against seepage toward Siwa.
+For a crust up to about 10 cm, the rinsing itself takes about 3–6 months and 0.24–0.75 km³ of water. Making that much water takes longer: five months to two years of the first plant pair's output, or three to nine months at the full goal. Pumping the brine out costs about 18–91 GWh, once.
 
-A Nile feed would use only water that Egypt's own planners judge spare in a given year, after existing users, and would switch off otherwise. We haven't costed it or surveyed the route. It is an idea for a later study, not part of this design.
+Below the crust sits salty water held in the sediment, and it will keep seeping out for years. In a simple model the lake runs at about 1,500–3,000 mg/L early on, peaking around years 12 to 16, and takes decades to settle near 1,000: about 30 years in the model's slow case. Until then it's slightly saline by the USGS classes, not fresh.
 
-## Egypt already asked a different question
+Then there's leakage. The floor is sands, gravels, clays and limestones. The Moghra aquifer, pumped by about 445 wells for farmland, drains naturally into the depression, so a lake here would sit on that aquifer's outlet. We found no measurement of how fast a freshwater lake on this floor would leak, evaporate or pull up salt. Siwa Oasis lies within about 80 km of the depression's western end.
 
-A government review, reported on 12 May 2026, rejected filling the depression with seawater. It judged several scenarios not feasible, including desalinating at the rim and piping water straight to users, and favored not using the depression as a reservoir at all. It named seepage into groundwater, saltier soil, harm to ecosystems including Siwa Oasis, overlap with oil and gas areas, and cost. This design uses fresh water, the plant's cooling-water heat, and a lake bed lined or tested before any fill. It is still a reservoir. It faces the same risks. It does not claim to overturn the review.
+Field cores come first. They set the flush, the early salt level and the bleed, and they tell you whether the lake is worth trying at all. If the cores show a leaky or salty bed, a liner under the lake is the fallback, and its cost isn't known.
 
-## The simpler rival
+## What else stands in the way
 
-The strongest competitor is plain: desalinate on the coast and pipe the water straight to farms and towns. No climb, no ridge, no lake. This idea only beats it if a lasting freshwater lake is worth the extra pipe, the extra risk, and the water lost to the sky.
+Beyond the ridge and the pipe friction from earlier, three things could stop this.
 
-## What could go wrong
+The first is the coast. Desalination returns salty brine to the sea and draws sea life into its intake. Both have to be designed, costed and permitted before anything is built, and the brine volume hasn't been worked out.
 
-The main way it fails: the route cannot show a climb-and-drop, a brine plan, and a salt balance that support a lasting freshwater lake. The risks, in one place:
+The second is oil and gas. Egypt's review counted 35 oil development areas and 8 exploration areas overlapping the depression, and producing fields such as Razzak, Alamein and Abu Gharadig lie in the Western Desert around it. The route and the lake have to be mapped against them first. People live here too: Qara, the only permanent settlement in the depression, and Bedouin families who use the land and wells along the corridor. They can refuse the corridor.
 
-- **The ridge.** If the cut costs too much, a booster pump erases the best case.
-- **Pipe friction.** A narrow pipe turns the small energy gain into a small loss.
-- **Evaporation and seepage.** The 2.7 million m³ a day for the full lake takes, we assume, two to three large desalination plant pairs. The floor sits on sand and sandstone linked to an aquifer already pumped for farmland northeast of the depression, so fresh water could leak away.
-- **Salt.** Fresh water dissolves salt from the floor. Without a liner or barrier, the lake would grow saltier over time, at a rate nobody has measured.
-- **Brine and intake.** Desalination leaves salty brine and draws in sea life at the intake. Both have to be designed, costed, and permitted. The brine volume hasn't been worked out.
-- **The environment.** Siwa Oasis lies just to the west. Any lake must not raise salt levels in nearby wells or groundwater.
-- **Oil and gas.** The plateau holds producing fields, including Razzak, Alamein, and Abu Gharadig. We haven't mapped them against this route yet.
-- **Cost.** There is no cost figure for this route yet.
+The third is money. We found no published cost study that transfers to a corridor like this, and there is no cost figure for this one. Taxpayers lose if the lake costs more than piping water straight to users.
 
-## Your turn
+## A later option: the Nile
 
-Which would you build first: the lake on the plateau, the heat-pump desalination on the coast, or the simple pipe from the coast to the farms? Tell us why in the comments.
+![Elevation map from the western Nile Delta to the Qattara Depression showing three canal routes and a feeder. Route A runs 397 km from the Nubaria canal at Amreya. Route B runs 507 km from the Delta-head intake near Qanater along the north rim of Wadi El Natrun. Route C, 510 km, drops into the wadi floor at about −21 m and pumps back out. A dashed 160 km gravity feeder links the Delta head to Amreya. All cross the same crest, about 110.5 m, northeast of Moghra.](./images/natrun_vs_moghra_map_v2.png)
 
-And if you know someone who always asks "why not just let the sea into the desert?", send them this. It is the short answer to why the fresh-water version is harder, and more interesting, than it looks.
+*Source: Idea Shelf Labs route study on Copernicus GLO-30 and GLO-90 elevation data. A later option, outside this design.*
+
+One more idea sits on the shelf, outside the scored design. In years when Egypt's planners judge some Nile water spare, after existing users, a canal could carry a little of it to the lake. That water needs no desalination, and as the map shows, every route would cross the same low saddle northeast of Moghra, at about 110.5 m. But it brings water-allocation politics, more salt, and the snails that carry schistosomiasis, so it is a separate study, not part of this design. The lab card has the details.
+
+## How we'd find out
+
+The test doesn't need a pipe. It needs a model and a drill.
+
+The model is one route, run hour by hour over a full year: MED on the reactor's usable waste heat, RO on surplus electricity only, the rule that decides which runs when, pipe friction, pump and turbine efficiency, the solar yield, and a water and salt balance for a lake of stated size and purpose. Every range in this post gets its own sensitivity run. In parallel, cores from the lake floor measure the salt crust and the brine beneath it.
+
+It passes if the three energy accounts (heat, electricity, and lift and drop) close on the same water, the plant buys little or no outside electricity beyond the surplus the design assumes, the drop repays most of the lift after friction, and the cores support a salt balance that holds the lake near 1,000 mg/L.
+
+The idea is dead if the corridor can't show a lift-to-drop, a brine plan and a salt balance that support a held freshwater lake: if the turbines don't pay back most of the pumping once friction is counted, if the plant buys more electricity than the surplus the design assumes, or if modelled seepage raises salinity in nearby wells or groundwater.
+
+## What we're asking for
+
+If you can build that year-long corridor model, or drill and read cores from the Qattara floor, we'd like to hear from you. Public money, if any, belongs there first, not in construction.
 
 ## How we got these numbers
 
-**Measured or published:** the depression's size and distance from the sea, Lake Tahoe's area, the 2026 review, the oil fields, the floor's makeup, RO and MED energy use, MED's temperature, cooling-water temperatures, the published output loss per °C (our 1–2% total is an estimate), and commercial heat-pump performance.
+**Published:** the depression's area, depth, lowest point and distance from the sea (Ball, The Geographical Journal, 1933); the review's findings and the oil and gas area counts (Egypt's Cabinet Media Center, as reported by four Arabic news outlets); MED and RO energy use (a review of desalination in the Middle East and North Africa); MED temperatures (equipment makers); cooling-water temperatures (a peer-reviewed study); commercial heat-pump performance; Lake Tahoe's area (UC Davis); the fresh-water limit (USGS); crop salt limits (FAO, converted from electrical conductivity to mg/L by us); the purity of desalinated water; published evaporation rates that Ball applied to a lake here (none measured in this basin); the Moghra aquifer; the large plants' output. The California aqueduct figures and the 80 % pumped-storage round trip are published figures for other systems, used for scale only.
 
-**Outside comparisons:** the California aqueduct lifts and energy figures, and the pumped-storage efficiency of new plants, are published figures for other systems, for scale only.
+**Our estimates:** everything derived from the elevation data (route lengths, heights, the ridge and its cut, lake areas and volumes, the water bank, the salt cell and reserve pit); the energy and storage arithmetic on those heights, assuming each pump and turbine is 89–92 % efficient and pipe friction of 0.1–0.4 m per km; the heat-pump COP of 3–5 and the electricity it draws; the plant-pair size, taken from today's large plants; the bleed, edge farms, flush and early salinity, from a simple salt-balance and diffusion model; and the Nile option, which is a sketch for later. Unknown: the crust's thickness, the floor's leakage, the brine volume, how many hours RO runs on surplus, the solar yield, the reactor, and every cost.
 
-**Estimated from elevation data:** lengths, heights, drops, the ridge and its cut, lake areas and volumes, and the water bank. Energy and storage figures are our arithmetic on those heights.
+*Maps and charts are illustrative, not a surveyed site. Heights, lengths and areas are derived from Copernicus GLO-30 elevation data, which carries a few metres of error. Imagery: NASA Worldview, MODIS Terra true color, 15 Jul 2024 (NASA EOSDIS); inset: NASA HLS S30, 10 Oct 2024, contains modified Copernicus Sentinel-2 data 2024. Contains modified Copernicus Sentinel data 2024. Elevation: produced using Copernicus WorldDEM-30 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. The lake volume and parts of the Nile route analysis use Copernicus GLO-90. GLO-90: produced using Copernicus WorldDEM™-90 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. The organisations in charge of the Copernicus programme by law or by delegation do not incur any liability for any use of the Copernicus WorldDEM-30. The organisations in charge of the Copernicus programme by law or by delegation do not incur any liability for any use of the Copernicus WorldDEM™-90. Reuse terms for these maps and charts: LICENSE-CONTENT in the blog repository.*
 
-**Future option:** the Nile route, lift, volumes, energy, the Wadi El Natrun branch and its salt figures are early estimates for a later study, drawn partly from published sources. They are not part of this design's numbers. How often a surplus year comes is unknown.
+**[Read the full lab card](https://github.com/Idea-Shelf-Labs/idea-shelf/blob/main/cards/qattara-depression-lake.md)**: every figure with its label, source and arithmetic.
 
-**Salt plan:** the 1,000 mg/L target, bleed, edge farms, salt cell and flush are our estimates. The crop limits are published (FAO). Upper limit for fresh water: USGS.
+## Sources
 
-**Assumptions:** the layout, no steam taken, machine efficiency, pipe friction, heat-pump COP, storage flow and the cliff-foot pond, evaporation, the number of plant pairs, and a full lake about the size of Lake Tahoe.
-
----
-
-*Maps and charts are illustrative, not a surveyed site. Heights, lengths and areas are derived from Copernicus GLO-30 elevation data, which carries a few metres of error. Imagery: NASA Worldview (MODIS Terra) and NASA HLS (contains modified Copernicus Sentinel-2 data). Elevation: produced using Copernicus WorldDEM-30 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. The lake volume and parts of the Nile route analysis use Copernicus GLO-90. The saddle and Wadi El Natrun corridor use GLO-30. GLO-90: produced using Copernicus WorldDEM™-90 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. The organisations in charge of the Copernicus programme by law or by delegation do not incur any liability for any use of the Copernicus WorldDEM-30. The organisations in charge of the Copernicus programme by law or by delegation do not incur any liability for any use of the Copernicus WorldDEM™-90. Reuse terms for these maps and charts: LICENSE-CONTENT in the blog repository.*
-
-*Heat sources: cooling-water output loss per °C: Durmayaz & Sogut 2006, International Journal of Energy Research (https://onlinelibrary.wiley.com/doi/10.1002/er.1186); Ibrahim et al. 2014, Journal of Energy (https://doi.org/10.1155/2014/793908). Industrial heat-pump COP: Arpagaus et al. 2018, Energy (https://doi.org/10.1016/j.energy.2018.03.166).*
-
-*Comparison sources: Colorado River Aqueduct length, five pumping plants, and 1,617 ft total lift: Metropolitan Water District of Southern California, Colorado River Aqueduct fact sheet, 2021 (https://www-admin.mwdh2o.com/media/ja5k5pcu/cra_fact-sheet-2021.pdf). About 2,000 kWh per acre-foot for Colorado River water: Wilkinson et al. 2006, ACEEE Summer Study, citing Metropolitan Water District 1996 (https://www.aceee.org/wp-content/uploads/proceedings-1980-2020/2006/SS06_Panel12_Paper14.pdf). State Water Project 1,926 ft single lift at the Tehachapis and 3,236 kWh per acre-foot to the end of the East Branch: California Energy Commission, California's Water-Energy Relationship, CEC-700-2005-011-SF, 2005 (https://cawaterlibrary.net/wp-content/uploads/2017/05/Californias-Water-Energy-Relationship.pdf). About 80% round trip for new pumped-storage plants: US Department of Energy, Technology Strategy Assessment: Pumped Storage Hydropower, 2023 (https://www.energy.gov/sites/default/files/2023-07/Technology%20Strategy%20Assessment%20-%20Pumped%20Storage%20Hydropower_0.pdf).*
-
-*Nile and salt sources: Nile salinity near Cairo, about 173 mg/L at El-Kanater and about 240 mg/L at the Delta barrage in a 2001 survey: Nile River Water Quality Management Study (https://cpb-eu-w2.wpmucdn.com/sites.aub.edu.lb/dist/e/139/files/2017/03/Nile-RIver-Water-Quality-Management-Study-1.pdf). Toshka lakes: https://doi.org/10.3390/rs11020158 and USGS EROS Earthshots (https://eros.usgs.gov/earthshots/the-lakes-form). Snails, schistosomiasis, and water hyacinth: Dazo et al. 1966 (https://pmc.ncbi.nlm.nih.gov/articles/PMC2476091/) and PMID 10605512 (https://pubmed.ncbi.nlm.nih.gov/10605512/). Wadi El Natrun aquifer over-abstraction, about 106 million m³ a year: Journal of the Geological Society of India, 2018 (https://doi.org/10.1007/s12594-018-0986-7). Wadi El Natrun Important Bird Area: BirdLife DataZone (https://datazone.birdlife.org/site/factsheet/6197-wadi-el-natrun). Monasteries: UNESCO Tentative List 1827, The monasteries of the Arab Desert and Wadi Natrun (https://whc.unesco.org/en/tentativelists/1827/). Crop salt tolerance at full yield, converted from ECw to mg/L at ×640 by us: Ayers & Westcot, Water Quality for Agriculture, FAO Irrigation and Drainage Paper 29 Rev. 1, 1985 (https://www.fao.org/4/t0234e/t0234e00.htm). Salinity of desalinated water: DESWARE, Composition of Desalinated Water, distillate about 20–30 ppm (https://www.desware.net/sample-chapters/D02/D13-002.pdf); MHI Technical Review 46(1), 2009, second-pass RO at Rabigh about 13 mg/L (https://www.mhi.com/technology/review/sites/g/files/jwhtju2326/files/tr/pdf/e461/e461012.pdf). Fresh and slightly saline water classes: USGS Water Science School (https://www.usgs.gov/water-science-school/science/saline-water-and-salinity).*
+1. [S1] Ball, "The Qattara Depression of the Libyan Desert and the possibility of its utilization for power-production", The Geographical Journal 82(4), Royal Geographical Society, 1933. https://archive.org/details/sim_geographical-journal_1933-10_82_4
+2. [S3] Egypt Cabinet review of the Qattara Depression development scenarios (Cabinet Media Center), as reported by Al-Ahram Gate, 2026. https://gate.ahram.org.eg/News/5643584.aspx
+3. [S4] Cabinet Media Center findings on the Qattara Depression, as reported by El Watan, 2026. https://www.elwatannews.com/news/details/8282914
+4. [S5] Cabinet Media Center findings on the Qattara Depression, as reported by El Sabah, 2026. https://elsabahnews.com/430954/
+5. [S6] Cabinet Media Center findings on the Qattara Depression, as reported by Al-Wafd, 2026. https://www.alwafd.news/5872176
+6. [S7] Multiple Effect Distillation (MED), Veolia Water Technologies. https://www.veoliawatertechnologies.com/en/technologies/multiple-effect-distillation-med
+7. [S8] Multi Effect Distillation, AquaSwiss. https://aquaswiss.eu/desalination-solutions/multi-effect-distillation/
+8. [S9] Condenser cooling-water conditions at Gulf-region nuclear power plants, Nuclear Engineering and Technology, 2015. https://www.sciencedirect.com/science/article/pii/S1738573315300814
+9. [S13] Arpagaus et al., High temperature heat pumps: market overview, state of the art, research status, refrigerants, and application potentials, Energy, 2018. https://doi.org/10.1016/j.energy.2018.03.166
+10. [S14] High-Temperature Heat Pumps for Industrial Use, Chemie Ingenieur Technik, 2023. https://doi.org/10.1002/cite.202300241
+11. [S15] Sayed et al., Recent progress in renewable energy based-desalination in the Middle East and North Africa MENA region, Journal of Advanced Research 48, 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC10248802/
+12. [S17] Copernicus DEM, Global and European Digital Elevation Model (GLO-30 and GLO-90), Copernicus Data Space Ecosystem. https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM
+13. [S18] Tahoe facts and trivia, UC Davis Tahoe Environmental Research Center. https://tahoe.ucdavis.edu/tahoe-facts-and-trivia
+14. [S19] Technology Strategy Assessment: Pumped Storage Hydropower, US Department of Energy, 2023. https://www.energy.gov/sites/default/files/2023-07/Technology%20Strategy%20Assessment%20-%20Pumped%20Storage%20Hydropower_0.pdf
+15. [S22] Taweelah RO Desalination IWP, ACWA Power. https://acwapower.com/en/what-we-do/projects/taweelah-ro-desalination-iwp/
+16. [S23] Sorek II Desalination Plant, IDE Technologies. https://ide-tech.com/en/project/sorek-b-desalination-plant/
+17. [S24] Ten of the world's largest desalination plants, Aquatech, 2019. https://www.aquatechtrade.com/water-stories/desalination/worlds-largest-desalination-plants
+18. [S26] Saline Water and Salinity, USGS Water Science School. https://www.usgs.gov/special-topics/water-science-school/science/saline-water-and-salinity
+19. [S27] Ayers & Westcot, Water Quality for Agriculture, FAO Irrigation and Drainage Paper 29 Rev. 1, 1985. https://www.fao.org/4/t0234e/T0234E03.htm
+20. [S28] Composition of Desalinated Water, DESWARE. https://www.desware.net/sample-chapters/D02/D13-002.pdf
+21. [S29] World's First Large Full Triple-Pass RO Seawater Desalination Plant, Mitsubishi Heavy Industries Technical Review vol. 46 no. 1, 2009. https://www.mhi.com/technology/review/sites/g/files/jwhtju2326/files/tr/pdf/e461/e461012.pdf
+22. [S30] Armanuos et al., Management of groundwater abstraction and seawater intrusion in the Moghra aquifer, Egypt, Scientific Reports 15:30385, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12365243/
+23. [S33] Fact Sheet: The Colorado River Aqueduct, Metropolitan Water District of Southern California, 2021. https://www-admin.mwdh2o.com/media/ja5k5pcu/cra_fact-sheet-2021.pdf
+24. [S34] Wilkinson et al., ACEEE Summer Study on Energy Efficiency in Buildings, 2006. https://www.aceee.org/wp-content/uploads/proceedings-1980-2020/2006/SS06_Panel12_Paper14.pdf
+25. [S35] California's Water-Energy Relationship, CEC-700-2005-011-SF, California Energy Commission, 2005. https://cawaterlibrary.net/wp-content/uploads/2017/05/Californias-Water-Energy-Relationship.pdf
+26. [S45] Dazo et al., snail hosts of schistosomiasis in Egypt, Bulletin of the World Health Organization, 1966. https://pmc.ncbi.nlm.nih.gov/articles/PMC2476091/
+27. [S46] Schistosomiasis snail hosts and water hyacinth in Nile canals, 1999. https://pubmed.ncbi.nlm.nih.gov/10605512/
+28. [S48] Egyptian Upstream Gateway Western Desert flyer, Egyptian Ministry of Petroleum and Mineral Resources. https://eug.petroleum.gov.eg/dp/jsp/assets/docs/EvG_WD_Phase1_Flyers.pdf
+29. [S49] Khalda Petroleum achieves 15 oil discoveries in H1 FY2025/26, Zawya, 2026. https://www.zawya.com/en/economy/north-africa/egypt-khalda-petroleum-achieves-15-oil-discoveries-in-h1-fy202526-344511
+30. [S51] Ball, "Problems of the Libyan Desert", The Geographical Journal 70, Royal Geographical Society, 1927. https://archive.org/details/sim_geographical-journal_1927-07_70_1
