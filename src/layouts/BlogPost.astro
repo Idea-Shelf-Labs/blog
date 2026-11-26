@@ -7,12 +7,29 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, ideaId, tags, patterns } = Astro.props;
+
+// Article metadata (JSON-LD) for search engines and datasets.
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'Article',
+	headline: title,
+	description,
+	datePublished: pubDate.toISOString().slice(0, 10),
+	dateModified: (updatedDate ?? pubDate).toISOString().slice(0, 10),
+	author: { '@type': 'Organization', name: 'Idea Shelf Labs', url: 'https://ideashelflabs.com' },
+	license: 'https://creativecommons.org/licenses/by/4.0/',
+	...(tags.length || patterns.length ? { keywords: [...tags, ...patterns].join(', ') } : {}),
+	...(ideaId
+		? { isBasedOn: `https://github.com/Idea-Shelf-Labs/idea-shelf/blob/main/cards/${ideaId}.md` }
+		: {}),
+};
 ---
 
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
+		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -64,10 +81,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				<div class="prose">
 					<div class="title">
 						<div class="date">
-							<FormattedDate date={pubDate} />
-							{updatedDate && (
+							First posted <FormattedDate date={pubDate} /> (GMT)
+							{updatedDate && updatedDate.valueOf() > pubDate.valueOf() && (
 								<div class="last-updated-on">
-									Last updated on <FormattedDate date={updatedDate} />
+									Last updated <FormattedDate date={updatedDate} /> (GMT)
 								</div>
 							)}
 						</div>
