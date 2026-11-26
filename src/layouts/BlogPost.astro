@@ -81,10 +81,10 @@ const jsonLd = {
 				<div class="prose">
 					<div class="title">
 						<div class="date">
-							<FormattedDate date={pubDate} />
-							{updatedDate && (
+							First posted <FormattedDate date={pubDate} /> (GMT)
+							{updatedDate && updatedDate.valueOf() > pubDate.valueOf() && (
 								<div class="last-updated-on">
-									Last updated on <FormattedDate date={updatedDate} />
+									Last updated <FormattedDate date={updatedDate} /> (GMT)
 								</div>
 							)}
 						</div>
